@@ -12,7 +12,6 @@ import {
 import { RFValue } from "react-native-responsive-fontsize";
 import AppLoading from "expo-app-loading";
 import * as Font from "expo-font";
-
 import firebase from "firebase";
 
 let customFonts = {
